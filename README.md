@@ -18,7 +18,7 @@ This is a sample page just to learn using bootstrap styling for quick page build
 
 ### Screenshot
 
-![](./img/desktop-preview.jpg)
+![](./src/img/desktop-preview.JPG)
 
 
 ### Links
